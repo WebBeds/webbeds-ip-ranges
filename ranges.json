@@ -1,6 +1,6 @@
 {
-    "syncToken": "2591052887892",
-    "createDate": "2024-06-13-18:15:00",
+    "syncToken": "2591052887893",
+    "createDate": "2026-10-20-09:08:15",
     "prefixes": [
 
         {
@@ -167,6 +167,30 @@
             "environment": "dev",
             "dc": 13 
             
+        },
+        {
+            "ip_prefix": "54.154.53.108/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "environment": "dev"
+        },
+        {
+            "ip_prefix": "52.209.248.177/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "environment": "dev"
+        },
+        {
+            "ip_prefix": "54.220.246.94/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "environment": "prod"
+        },
+        {
+            "ip_prefix": "54.75.151.100/32",
+            "region": "europe",
+            "brand": "webbeds",
+            "environment": "prod"
         }
         
     ]
