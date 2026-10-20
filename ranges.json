@@ -172,29 +172,25 @@
             "ip_prefix": "54.154.53.108/32",
             "region": "europe",
             "brand": "webbeds",
-            "environment": "stage",
-            "operation": "finance"
+            "environment": "dev"
         },
         {
             "ip_prefix": "52.209.248.177/32",
             "region": "europe",
             "brand": "webbeds",
-            "environment": "stage",
-            "operation": "finance"
+            "environment": "dev"
         },
         {
             "ip_prefix": "54.220.246.94/32",
             "region": "europe",
             "brand": "webbeds",
-            "environment": "prod",
-            "operation": "finance"
+            "environment": "prod"
         },
         {
             "ip_prefix": "54.75.151.100/32",
             "region": "europe",
             "brand": "webbeds",
-            "environment": "prod",
-            "operation": "finance"
+            "environment": "prod"
         }
         
     ]
